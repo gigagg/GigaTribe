@@ -37,10 +37,10 @@
   - Ajout du menu burger dans la fenêtre de connexion
 
 3.05.038 (2020-03-12)
-    - Améliorations du mode sombre
-    - Correction de la position du menu "burger"
-    - Correction du bug lors de l'insertion de lien
-    - Correction de crash possible lorsque plusieurs instance de gigatribe on été lancées
+  - Améliorations du mode sombre
+  - Correction de la position du menu "burger"
+  - Correction du bug lors de l'insertion de lien
+  - Correction de crash possible lorsque plusieurs instance de gigatribe on été lancées
 
 3.05.037 (2020-03-05)
   - Améliorations de la certification de l'installeur MacOs
