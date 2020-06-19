@@ -1,3 +1,10 @@
+
+Version précedente [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
+
+3.06.006 (2020-06-19)
+
+- Backport depuis la béta du correctif sur l'historique de chat
+
 3.07.001-BETA (2020-06-12)
 
 - Amélioration du stockage des historiques de chat

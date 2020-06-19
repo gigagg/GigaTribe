@@ -1,3 +1,10 @@
+
+Previous version [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
+
+3.06.006 (2020-06-19)
+
+- Backport from the beta of the fix on the chat history
+
 3.07.001-BETA (2020-06-12)
 
 - Improve the chat history file storage
