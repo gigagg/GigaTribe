@@ -1,5 +1,5 @@
 
-Version précedente [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
+Version précedente : [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
 
 3.06.006 (2020-06-19)
 
