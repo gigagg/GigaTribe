@@ -1,6 +1,10 @@
 
 Previous version : [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
 
+3.06.007 (2020-06-22)
+
+- Fix chat on Windows (char encoding error)
+
 3.06.006 (2020-06-19)
 
 - Backport from the beta of the fix on the chat history
