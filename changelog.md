@@ -1,6 +1,11 @@
 
 Version précedente : [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
 
+3.07.003-BETA (2021-05-20)
+
+- Correction de bug sur l'historique de chat
+- Ajout d'un formulaire de signalement de bug directement dans le chat
+
 3.06.007 (2020-06-22)
 
 - Correction du chat sous windows (problème d'encodage de caratères)
