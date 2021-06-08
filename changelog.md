@@ -1,6 +1,17 @@
 
 Version précedente : [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
 
+
+3.07.005-BETA (2021-06-08)
+
+- Amélioration de la gestion d'erreur lors de la lecture de l'historique de chat
+
+3.07.004-BETA (2021-06-07)
+
+- Correction d'un autre bug sur l'historique de chat
+- Améliration du profile utilisateur quand l'adresse email n'est pas validée
+- "Supprimer les transferts inutiles" devient "Supprimer les transferts terminés"
+
 3.07.003-BETA (2021-05-20)
 
 - Correction de bug sur l'historique de chat
