@@ -1,6 +1,21 @@
 
 Version précedente : [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
 
+3.06.010 (2021-08-30)
+
+- Ajout des correctifs issus de la BETA dans la version Release
+
+3.07.009-BETA (2021-08-30)
+
+- Correction d'un bug d'affichage des icones sur écrant rétina sous Mac
+- Suppression du bouton de mise à jour sur Mac (il n'y a pas de mise à jour automatique sous Mac/beta)
+- Correction de bugs sur l'historique du chat.
+
+
+3.07.005-BETA (2021-06-08)
+
+- Amélioration de la gestion d'erreur lors de la lecture de l'historique de chat
+
 
 3.07.005-BETA (2021-06-08)
 
