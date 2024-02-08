@@ -1,6 +1,11 @@
 
 Version précedente : [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
 
+3.06.011 (2024-02-08)
+
+- Améloration de la conformité RGPD
+- Correction d'un bug sur la version linux
+
 3.06.010 (2021-08-30)
 
 - Ajout des correctifs issus de la BETA dans la version Release
