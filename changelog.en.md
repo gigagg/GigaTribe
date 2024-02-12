@@ -1,6 +1,37 @@
 
 Previous version : [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
 
+3.06.011 (2024-02-08)
+
+- Improved GDPR compliance.
+- Fixed a bug on the Linux version.
+
+3.06.010 (2021-08-30)
+
+- Added fixes from the BETA version into the Release version.
+
+3.07.009-BETA (2021-08-30)
+
+- Fixed an issue with icon display on retina screens under Mac.
+- Removed the update button on Mac (there is no automatic update under Mac/beta).
+- Fixed bugs in chat history.
+
+3.07.005-BETA (2021-06-08)
+
+- Improved error handling when reading chat history.
+
+3.07.004-BETA (2021-06-07)
+
+- Fixed another bug in chat history.
+- Improved user profile when the email address is not validated.
+- "Delete unnecessary transfers" becomes "Delete completed transfers."
+
+3.07.003-BETA (2021-05-20)
+
+- Fixed bugs in chat history.
+- Added a bug reporting form directly in the chat.
+
+
 3.06.007 (2020-06-22)
 
 - Fix chat on Windows (char encoding error)
