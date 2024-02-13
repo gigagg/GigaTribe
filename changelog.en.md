@@ -1,6 +1,11 @@
 
 Previous version : [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
 
+3.06.012 (2024-02-13)
+
+- Added a notification option in the profile settings 
+- Improved Spanish translation
+
 3.06.011 (2024-02-08)
 
 - Improved GDPR compliance.
