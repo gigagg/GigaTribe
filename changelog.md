@@ -1,6 +1,14 @@
 
 Version précedente : [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
 
+3.06.014 (2024-02-27)
+
+- Amélioration de la traduction des recommendations
+
+3.06.013 (2024-02-19)
+
+- Correction d'une traduction manquante en français
+
 3.06.012 (2024-02-13)
 
 - Ajout d'une options de notification dans les options de profil 
@@ -17,7 +25,7 @@ Version précedente : [3.04.013 windows](https://www.gigatribe.com/software/setu
 
 3.07.009-BETA (2021-08-30)
 
-- Correction d'un bug d'affichage des icones sur écrant rétina sous Mac
+- Correction d'un bug d'affichage des icones sur écran rétina sous Mac
 - Suppression du bouton de mise à jour sur Mac (il n'y a pas de mise à jour automatique sous Mac/beta)
 - Correction de bugs sur l'historique du chat.
 
