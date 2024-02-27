@@ -1,6 +1,14 @@
 
 Previous version : [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
 
+3.06.014 (2024-02-27)
+
+- Improved translation of recommendations.
+
+3.06.013 (2024-02-19)
+
+- Fixed a missing translation in French.
+    
 3.06.012 (2024-02-13)
 
 - Added a notification option in the profile settings 
