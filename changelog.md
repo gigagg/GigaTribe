@@ -1,6 +1,10 @@
 
 Version précedente : [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
 
+3.06.015 (2024-03-06)
+
+- Amélioration des traductions
+
 3.06.014 (2024-02-27)
 
 - Amélioration de la traduction des recommendations
