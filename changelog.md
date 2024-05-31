@@ -1,6 +1,11 @@
 
 Version précedente : [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
 
+3.08.001-BETA (2024-05-31)
+
+- Migration vers la version 6 de QT
+- Correction de fautes d'orthographe
+
 3.06.015 (2024-03-06)
 
 - Amélioration des traductions
