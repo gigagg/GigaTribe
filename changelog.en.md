@@ -1,6 +1,12 @@
 
 Previous version : [3.04.013 windows](https://www.gigatribe.com/software/setup_gigatribe_v3.04.013.6884.exe)
 
+3.08.007-BETA (2024-05-31)
+
+- Introduced multi-connection mode
+- Optimized transfer algorithm
+- Improved connectivity with VPN
+
 3.06.015 (2024-03-06)
 
 - Improved translations
