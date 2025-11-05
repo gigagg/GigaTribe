@@ -1,3 +1,59 @@
+3.08.031 (2025-11-05)
+
+- Cette mise à jour rend l'application plus stable et fiable.
+- **Fonctionnement plus fluide :** Correction de problèmes pouvant entraîner le ralentissement ou le plantage de l'application.
+- **Mode sombre amélioré :** Rendu les messages de chat plus faciles à lire lors de l'utilisation du mode sombre.
+- **Memoire :** Correction d'une fuite mémoire en connexion direct.
+- **Corrections générales :** Amélioration des connexions, de la recherche et des transferts de fichiers.
+
+3.08.030 (2025-10-30)
+
+- Une mise à jour mineure pour améliorer le processus de mise à jour lui-même.
+- **Mises à jour plus intelligentes :** Rendu la fonctionnalité de mise à jour automatique plus fiable pour les utilisateurs de Windows.
+
+3.08.029  (2025-10-29)
+
+- Cette mise à jour rend l'application plus conviviale.
+- **Noms d'appareils plus clairs :** Vos appareils affichent désormais des noms conviviaux (comme « Smartphone de John ») au lieu de codes techniques.
+- **Lecture plus facile :** Amélioration des couleurs du texte dans le chat pour les modes clair et sombre.
+- **Sons corrigés :** Correction d'un bug qui empêchait la lecture correcte des sons de notification.
+- **Autres corrections :** Amélioration du processus de mise à jour pour les utilisateurs Mac et correction d'autres bugs mineurs.
+
+3.08.028  (2025-10-28)
+
+- Il s'agissait d'une mise à jour de maintenance pour améliorer la façon dont vous recevez les nouvelles versions.
+- **Mises à jour améliorées :** Amélioration du système de mise à jour automatique pour tous les utilisateurs.
+- **Installation plus fluide (Windows) :** L'installateur Windows fonctionne désormais mieux sur un plus grand nombre d'ordinateurs.
+
+3.08.027  (2025-10-27)
+
+- Une mise à jour importante axée sur la stabilité et la sécurité.
+- **Connexions plus stables :** Renforcement des connexions réseau et correction de problèmes pouvant entraîner des plantages lors des transferts de fichiers.
+- **Sécurité renforcée :** Ajout de vérifications supplémentaires pour sécuriser vos connexions.
+- **Performances accrues :** L'application fonctionne désormais plus efficacement en arrière-plan.
+
+3.08.024  (2025-10-27)
+
+- Une mise à jour de maintenance pour améliorer l'expérience sous Windows.
+- **Meilleure installation Windows :** L'installateur fonctionne désormais mieux sur un plus grand nombre d'ordinateurs Windows.
+- **Moins de fausses alertes :** Suppression des messages d'erreur confus qui apparaissaient alors que tout fonctionnait.
+
+3.08.023  (2025-10-22)
+
+- Cette mise à jour rend les notifications par e-mail plus faciles à comprendre.
+- **Alertes e-mail plus claires :** L'application vous indique désormais clairement si vos notifications par e-mail sont désactivées car votre adresse e-mail n'est pas vérifiée.
+- **Paramètres simplifiés :** La page des paramètres est maintenant plus facile à comprendre.
+
+3.08.022  (2025-10-21)
+
+- Un correctif rapide pour un bug visuel.
+- **Noms d'appareils corrigés :** Correction d'un bug qui empêchait vos noms d'appareils personnalisés de s'afficher correctement.
+
+3.08.021  (2025-10-21)
+
+- Cette mise à jour visait à améliorer votre expérience de chat sur tous les appareils.
+- **Synchro du chat multi-appareils :** Vos messages de chat se synchronisent désormais parfaitement sur tous vos appareils (téléphone, ordinateur, etc.).
+- **Meilleur historique de chat :** Amélioration de la sauvegarde et de l'affichage de votre historique de chat.
 
 3.08.007-BETA (2024-05-31)
 
