@@ -1,3 +1,59 @@
+3.08.031 (2025-11-05)
+
+- This update makes the app more stable and reliable.
+- **Runs Smoother:** Fixed issues that could cause the app to slow down or crash.
+- **Better Dark Mode:** Made chat messages easier to read when using dark mode.
+- **Memory usage:** Fix a memory leak when in direct connection.
+- **General Fixes:** Improved connections, search, and file transfers.
+
+3.08.030 (2025-10-30)
+
+- A minor update to improve the update process itself.
+- **Smarter Updates:** Made the automatic update feature more reliable for Windows users.
+
+3.08.029  (2025-10-29)
+
+- This update makes the app more user-friendly.
+- **Clearer Device Names:** Your devices now show friendly names (like "John's smartphone") instead of technical codes.
+- **Easier to Read:** Improved text colors in chat for both light and dark modes.
+- **Sounds Fixed:** Fixed a bug that stopped notification sounds from playing correctly.
+- **Other Fixes:** Improved the update process for Mac users and fixed other small bugs.
+
+3.08.028  (2025-10-28)
+
+- This was a maintenance update to improve how you get new versions.
+- **Better Updates:** Improved the automatic update system for all users.
+- **Smoother Installation (Windows):** The Windows installer now works better on more computers.
+
+3.08.027  (2025-10-27)
+
+- A big update focused on stability and security.
+- **More Stable Connections:** Made network connections stronger and fixed issues that could cause crashes during file transfers.
+- **Security Boost:** Added extra checks to keep your connections secure.
+- **Faster Performance:** Made the app run more efficiently in the background.
+
+3.08.024  (2025-10-27)
+
+- A maintenance update to improve the experience on Windows.
+- **Better Windows Installation:** The installer now works better on more Windows computers.
+- **Fewer False Alarms:** Removed confusing error messages that popped up when nothing was wrong.
+
+3.08.023  (2025-10-22)
+
+- This update makes email notifications easier to understand.
+- **Clearer Email Alerts:** The app now clearly tells you if your email notifications are off because your email address isn't verified.
+- **Helpful Settings:** The settings page is now easier to understand.
+
+3.08.022  (2025-10-21)
+
+- A quick fix for a visual bug.
+- **Device Names Fixed:** Fixed a bug that stopped your custom device names from showing up correctly.
+
+3.08.021  (2025-10-21)
+
+- This update focused on improving your chat experience across devices.
+- **Chat Sync Across Devices:** Your chat messages now sync perfectly across all your devices (phone, computer, etc.).
+- **Better Chat History:** Improved how your chat history is saved and displayed.
 
 3.08.007-BETA (2024-05-31)
 
