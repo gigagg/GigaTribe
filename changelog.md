@@ -1,3 +1,14 @@
+3.08.035 (2025-11-26)
+
+- Nous nous sommes concentrés sur le fait de rendre GigaTribe **plus intelligent, plus sûr et plus rapide** dans cette mise à jour.
+- **Accès facilité grâce aux liens (Deep Linking) :** Vous pouvez désormais ouvrir GigaTribe directement sur le contenu pertinent en cliquant simplement sur les liens spéciaux `gigatribe:` que vous trouvez dans votre navigateur, vos e-mails ou vos messages de chat.
+- **Sécurité et fiabilité améliorées :** Nous avons renforcé la manière dont GigaTribe gère les liens et les parties externes de l'application, en particulier sous Windows, la rendant globalement plus **sécurisée et stable**.
+- **Performances plus fluides :** Nous avons mis à jour le code essentiel de l'application pour garantir qu'elle fonctionne bien et reste **rapide** sur les systèmes d'exploitation informatiques les plus récents.
+
+3.08.034 (2025-11-18)
+
+- Signature de l'application pour le système Windows.
+
 3.08.031 (2025-11-05)
 
 - Cette mise à jour rend l'application plus stable et fiable.
