@@ -1,3 +1,26 @@
+3.08.042 BETA (2026-01-16)
+
+* Amélioration des performances de la recherche CRC.
+* Optimisation du chargement des fichiers d'état pour les disques lents.
+* Améliorations générales des performances.
+
+3.08.041 BETA (2026-01-14)
+
+* Optimisations multiples du téléchargement de fichiers.
+* Nettoyage général du code.
+* Améliorations générales des performances.
+
+3.08.040 BETA (2025-12-22)
+
+* Mise à jour du système de journaux (logging).
+* Diverses améliorations de la connexion et des tunnels réseau.
+
+3.08.038 (2025-12-18)
+
+* Correction des problèmes de l'installeur Windows.
+* Ajout de la gestion des événements d'ouverture d'URL sur macOS (protocole gigatribe://).
+* Diverses corrections de bugs mineurs.
+
 3.08.035 (2025-11-26)
 
 - Nous nous sommes concentrés sur le fait de rendre GigaTribe **plus intelligent, plus sûr et plus rapide** dans cette mise à jour.
