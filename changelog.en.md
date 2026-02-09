@@ -1,3 +1,11 @@
+3.09.002 (2026-02-06)
+
+* Network opening now feels clearer thanks to a progress counter, a reliable first-run reset, and a friendlier “need latest version” message.
+* Overall stability improves with hardened threading and transfer handling, keeping sessions smooth even under heavy load.
+* Folder monitoring was revamped to use fewer disk resources.
+* File transfers are more reliable: tunnels start sending as soon as ready, uploads got fixes, and the reading-folder count now shows up.
+* A status-bar warning appears when the disk is deemed too slow, helping diagnose performance issues quickly.
+
 3.08.042 BETA (2026-01-16)
 
 - Improved CRC search performance.
