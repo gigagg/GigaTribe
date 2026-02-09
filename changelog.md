@@ -1,3 +1,10 @@
+3.09.002 (2026-02-06)
+* L’ouverture du réseau gagne en clarté : compteur de progression, réinitialisation fiable du premier lancement et meilleure gestion du message “il faut la dernière version”.
+* Les performances globales sont durcies (gestion des threads et transferts) pour des sessions plus stables même sous forte charge.
+* Les surveillances de dossiers ont été revues pour consommer moins de ressources disque.
+* Les transferts de fichiers sont plus robustes : envoi via tunnel dès que prêt, correction des uploads et affichage du nombre de dossiers en lecture.
+* Une alerte s’affiche maintenant dans la barre d’état quand le disque est jugé trop lent, facilitant le diagnostic des ralentissements.
+
 3.08.042 BETA (2026-01-16)
 
 * Amélioration des performances de la recherche CRC.
