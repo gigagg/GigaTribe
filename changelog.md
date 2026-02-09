@@ -27,6 +27,7 @@
 * Correction des problèmes de l'installeur Windows.
 * Ajout de la gestion des événements d'ouverture d'URL sur macOS (protocole gigatribe://).
 * Diverses corrections de bugs mineurs.
+* [Version Mac](https://www.gigatribe.com/software/macx/GigaTribe-3.08.038.dmg)
 
 3.08.035 (2025-11-26)
 
