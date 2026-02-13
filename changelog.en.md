@@ -1,3 +1,15 @@
+3.09.004 (2026-02-12)
+
+* Version Display: Added a version column in the user list so you can easily see what version others are using.
+* Rescan Option: Introduced a rescan action to help refresh shared folders more easily.
+* Scanned Status: Added a column showing the scanned status of your shared folders for better visibility.
+* Version Colors: Users now display in colors based on their app version, making it easier to spot compatibility.
+* File Handling: Enhanced safety in file writing and traffic reading to prevent errors.
+* Mac Support: Activated the new file dialog selection specifically for Mac users.
+* Options Management: Better handling of options, including resetting shared folder watchers when settings change.
+* Crashes: Fixed a crash issue and improved overall app stability.
+* Traffic Worker: Fixed an issue with traffic reading to avoid memory problems.
+
 3.09.002 (2026-02-06)
 
 * Network opening now feels clearer thanks to a progress counter, a reliable first-run reset, and a friendlier “need latest version” message.
