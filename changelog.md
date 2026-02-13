@@ -1,3 +1,14 @@
+3.09.004 (2026-02-12)
+
+* Affichage de la version : Ajout d'une colonne de version dans la liste des utilisateurs pour que vous puissiez facilement voir quelle version les autres utilisent.
+* Introduction d'une action pour re-analyser les dossier partagé.
+* Ajout d'une colonne affichant le statut de vos dossiers partagés pour une meilleure visibilité.
+* Les versions s'affichent maintenant en couleurs pour rapidement voir les versions parfaitement compatibiles.
+* Amélioration de la sécurité dans l'écriture et la lecture de fichiers pour éviter les erreurs.
+* Activation de la nouvelle fenêtre de selection de fichier spécifiquement pour les utilisateurs Mac.
+* Plantages : Correction d'un problème de plantage et amélioration de la stabilité globale de l'application.
+* Correction d'un problème avec la lecture des fichiers pour éviter les problèmes de mémoire.
+
 3.09.002 (2026-02-06)
 * L’ouverture du réseau gagne en clarté : compteur de progression, réinitialisation fiable du premier lancement et meilleure gestion du message “il faut la dernière version”.
 * Les performances globales sont durcies (gestion des threads et transferts) pour des sessions plus stables même sous forte charge.
