@@ -1,5 +1,16 @@
-3.09.004 (2026-02-12)
 
+3.09.006 BETA (2026-02-16)
+- Dialogue d'écrasement optimisé — confirmation plus rapide et fluide lors du remplacement de fichiers.
+- Affichage des tailles de dossiers — la taille des dossiers est maintenant affichée là où c'est pertinent.
+- Mises à jour plus réactives de la liste de transferts — parsing des fichiers de trafic en arrière-plan plus performant.
+
+3.09.005 (2026-02-13)
+- Affiche la version dans le profil — la version courante est maintenant visible dans le profil utilisateur.
+- Correction — sélecteur de langue au premier lancement (plus de langue incorrecte/par défaut).
+- Correction — Options / Général & Avancé — cases à cocher et options restaurées à leur état correct.
+- Interface de transfert renforcée — paramètre de connexion durci dans les éléments de trafic/transfert (moins d'états invalides/crashs).
+
+3.09.004 (2026-02-12)
 * Affichage de la version : Ajout d'une colonne de version dans la liste des utilisateurs pour que vous puissiez facilement voir quelle version les autres utilisent.
 * Introduction d'une action pour re-analyser les dossier partagé.
 * Ajout d'une colonne affichant le statut de vos dossiers partagés pour une meilleure visibilité.
