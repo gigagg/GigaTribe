@@ -1,5 +1,17 @@
-3.09.004 (2026-02-12)
 
+3.09.006 BETA (2026-02-16)
+- Overwrite dialog optimized — faster, smoother confirmation when replacing files.
+- Folder sizes displayed — folder-size now shown where relevant (improves transfer / folder view).
+- Faster transfer-list updates — improved responsiveness when parsing traffic files in background.
+
+3.09.005 (2026-02-13)
+- Shows app version in your profile — current version is now visible in user profile. 
+- Fix — language selector on first launch (no more wrong/default language). 
+- Fix — Settings / General & Advanced options — checkboxes and options restored to correct state.
+- More robust transfer UI — connection parameter hardened in traffic/transfer items (fewer invalid states/crashes). 
+
+
+3.09.004 (2026-02-12)
 * Version Display: Added a version column in the user list so you can easily see what version others are using.
 * Rescan Option: Introduced a rescan action to help refresh shared folders more easily.
 * Scanned Status: Added a column showing the scanned status of your shared folders for better visibility.
