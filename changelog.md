@@ -1,3 +1,25 @@
+3.09.010 (24-03-2026)
+* Correction de plantages : Résolution d'un problème majeur lors de la modification de fichiers en s'assurant que l'application consulte les données en direct plutôt que d'anciens « instantanés » (snapshots).
+* Amélioration des traductions : Affinement de la gestion des liens web et des paramètres pour les différentes langues.
+* Améliorations Windows : Correction de plusieurs plantages spécifiques à Windows et optimisation de l'identification des chemins de fichiers.
+* Stabilité générale : Corrections internes pour prévenir divers arrêts inattendus.
+
+3.09.009 (20-03-2026)
+* Nouvelle fonctionnalité : Ajout d'un paramètre pour choisir la fréquence de rescannage automatique de vos dossiers.
+* Paramètres intelligents : Les modifications de l'intervalle de scan s'appliquent désormais immédiatement sans redémarrage.
+* Améliorations de l'interface : Mise à jour des messages lors de la connexion aux utilisateurs principaux et uniformisation de l'outil de sélection de dossiers Windows.
+* Gestion des connexions : Amélioration de la fermeture des connexions lors de l'utilisation des outils en ligne de commande.
+
+3.09.008 BETA (17-03-2026)
+* Maintenance : Améliorations mineures de la stabilité et nettoyage du code.
+
+3.09.007 BETA (09-03-2026)
+* Optimisation du scan :
+    * Le scan est désormais plus rapide et consomme moins de ressources système.
+    * Correction des problèmes de « gel » de l'application en déplaçant les mises à jour de fichiers hors du thread principal de traitement.
+    * L'application empêche désormais l'exécution simultanée de plusieurs scans pour économiser de la mémoire.
+* Polissage développeur : Amélioration de la prise en charge des builds Windows et nettoyage des dépendances de fichiers internes.
+* Fiabilité : Ajout de tests plus rigoureux sur le comportement des dossiers afin de prévenir de futurs bugs.
 
 3.09.006 BETA (2026-02-16)
 - Dialogue d'écrasement optimisé — confirmation plus rapide et fluide lors du remplacement de fichiers.
