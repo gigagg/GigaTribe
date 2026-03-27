@@ -1,3 +1,25 @@
+3.09.010 (2026-03-24)
+*   Fixed Crashing: Resolved a major issue when modifying files by ensuring the app looks at live data instead of old "snapshots."
+*   Improved Translations: Refined how the app handles web links and settings for different languages.
+*   Windows Enhancements: Fixed several Windows-specific crashes and improved how the app identifies file paths.
+*   General Stability: Under-the-hood fixes to prevent various unexpected shutdowns.
+
+3.09.009 (2026-03-20)
+*   New Feature: Added a setting to choose how often the app automatically rescans your folders.
+*   Smarter Settings: Changes to your rescan interval now apply immediately without a restart.
+*   UI Improvements: Updated the messaging when connecting to primary users and made the Windows folder selection tool more consistent.
+*   Connection Handling: Improved how the app closes connections when using command-line tools.
+
+3.09.008 BETA (2026-03-17)
+*   Maintenance: Minor stability improvements and code cleanup.
+
+3.09.007 BETA (2026-03-09)
+*   Optimized Scanning: 
+    *   Scanning is now faster and uses fewer system resources.
+    *   Fixed "freezing" issues by moving file updates off the main processing thread.
+    *   The app now prevents multiple scans from running at the same time to save memory.
+*   Developer Polish: Improved Windows build support and cleaned up internal file dependencies.
+*   Reliability: Added more rigorous testing for folder behavior to prevent future bugs.
 
 3.09.006 BETA (2026-02-16)
 - Overwrite dialog optimized — faster, smoother confirmation when replacing files.
