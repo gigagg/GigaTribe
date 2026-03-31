@@ -1,5 +1,9 @@
+3.09.012 (2026-03-31)
+*   Active et améliore l'upload de fichiers dans un dossier partagé en écriture
+*   Ajout du bouton "Lire" sur les vidéos en cours de téléchargement
+
 3.09.010 (24-03-2026)
-* Correction de plantages : Résolution d'un problème majeur lors de la modification de fichiers en s'assurant que l'application consulte les données en direct plutôt que d'anciens « instantanés » (snapshots).
+* Correction de plantages : Résolution d'un problème majeur lors de la modification de fichiers partagés.
 * Amélioration des traductions : Affinement de la gestion des liens web et des paramètres pour les différentes langues.
 * Améliorations Windows : Correction de plusieurs plantages spécifiques à Windows et optimisation de l'identification des chemins de fichiers.
 * Stabilité générale : Corrections internes pour prévenir divers arrêts inattendus.
