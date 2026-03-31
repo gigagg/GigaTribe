@@ -1,5 +1,9 @@
+3.09.012 (2026-03-31)
+*   Activate and improve the file uploading system
+*   Fix the "play" button when a movie is downloading 
+
 3.09.010 (2026-03-24)
-*   Fixed Crashing: Resolved a major issue when modifying files by ensuring the app looks at live data instead of old "snapshots."
+*   Fixed Crashing: Resolved a major issue when modifying shared files
 *   Improved Translations: Refined how the app handles web links and settings for different languages.
 *   Windows Enhancements: Fixed several Windows-specific crashes and improved how the app identifies file paths.
 *   General Stability: Under-the-hood fixes to prevent various unexpected shutdowns.
