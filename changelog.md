@@ -1,3 +1,6 @@
+3.09.014 BETA (2026-04-02)
+* Amélioration de la stabilité
+
 3.09.013 (2026-04-01)
 * Correction du tris des dossiers partagé par taille
 
