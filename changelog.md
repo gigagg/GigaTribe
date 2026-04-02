@@ -1,3 +1,6 @@
+3.09.013 (2026-04-01)
+* Correction du tris des dossiers partagé par taille
+
 3.09.012 (2026-03-31)
 *   Active et améliore l'upload de fichiers dans un dossier partagé en écriture
 *   Ajout du bouton "Lire" sur les vidéos en cours de téléchargement
