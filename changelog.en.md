@@ -1,3 +1,9 @@
+3.09.014 BETA (2026-04-02)
+* Improve stability
+
+3.09.013 (2026-04-01)
+* Fix the file size sort in the shared folder view
+  
 3.09.012 (2026-03-31)
 *   Activate and improve the file uploading system
 *   Fix the "play" button when a movie is downloading 
