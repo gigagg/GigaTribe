@@ -1,3 +1,8 @@
+3.09.016 (2026-05-12)
+* Amélioration de la stabilité
+* Correction d'un bug qui stoppait le téléchargement de certaines sources
+* Correction de l'affichage des SVG sous macos
+
 3.09.014 BETA (2026-04-02)
 * Amélioration de la stabilité
 
