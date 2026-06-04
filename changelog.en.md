@@ -1,5 +1,10 @@
-3.09.016 (2026-05-12)
+3.09.018 (2026-06-03)
+* Fixed a display bug with large fonts
+* Better error handling when downloading a non-existent file
+* Added license information to the profile page
+* Fixed the issue with adding blocked users to the list
 
+3.09.016 (2026-05-12)
 * **Stability improvements**
 * **Fixed a bug** that stopped the download of certain sources
 * **Fixed SVG display issues** on macOS
