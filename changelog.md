@@ -1,3 +1,9 @@
+3.09.018 (2026-06-03)
+* Correction d'un bug d'affichage avec les grandes polices
+* Meilleur gestion des erreurs lors d'un téléchargement d'un fichier non existant
+* Ajout des informations de licence sur la page de profile
+* Correction de l'ajout des utilisateurs bloqués dans la liste
+
 3.09.016 (2026-05-12)
 * Amélioration de la stabilité
 * Correction d'un bug qui stoppait le téléchargement de certaines sources
