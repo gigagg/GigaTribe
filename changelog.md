@@ -1,3 +1,7 @@
+3.09.019 (2026-06-29)
+* Amélioration de la stabilité
+* Utilisation du nouveau serveur d'API
+
 3.09.018 (2026-06-03)
 * Correction d'un bug d'affichage avec les grandes polices
 * Meilleur gestion des erreurs lors d'un téléchargement d'un fichier non existant
