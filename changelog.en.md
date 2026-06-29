@@ -1,3 +1,7 @@
+3.09.019 (2026-06-29)
+* Improve stability
+* Connect to the new API server
+
 3.09.018 (2026-06-03)
 * Fixed a display bug with large fonts
 * Better error handling when downloading a non-existent file
