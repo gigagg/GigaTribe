@@ -1,3 +1,12 @@
+3.09.021 (2026-07-08)
+* Fix a regression on the blocked users list
+* Improve stability
+
+3.09.020 (2026-07-07)
+* Add the version number to the login window
+* Improve the way GigaTribe launch at startup option is configured
+* Fix the display on small screen with big fonts
+
 3.09.019 (2026-06-29)
 * Improve stability
 * Connect to the new API server
