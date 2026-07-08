@@ -1,3 +1,12 @@
+3.09.021 (2026-07-08)
+* Correction d'une regression sur la liste des utilisateurs bloqués
+* Amélioration de la stabilité
+
+3.09.020 (2026-07-07)
+* Ajout du numéro de version sur la fenêtre de connexion
+* Amélioration du lancement automatique de GigaTribe à l'ouverture de la session
+* Correction de l'affichage sur petit écran avec une grande police
+
 3.09.019 (2026-06-29)
 * Amélioration de la stabilité
 * Utilisation du nouveau serveur d'API
