@@ -1,3 +1,8 @@
+3.10.001 (2026-07-16)
+* Correction de l'affichage quand le quota est atteind
+* Ajout d'icones pour indiqué si les connexion sont en VPN ou en Direct
+* Amélioration de la stabilité
+
 3.09.021 (2026-07-08)
 * Correction d'une regression sur la liste des utilisateurs bloqués
 * Amélioration de la stabilité
