@@ -1,3 +1,8 @@
+3.10.001 (2026-07-16)
+* Fix display when the quota is reached
+* Add some icons to display if a connection is in VPN or Direct
+* Improve stability
+
 3.09.021 (2026-07-08)
 * Fix a regression on the blocked users list
 * Improve stability
