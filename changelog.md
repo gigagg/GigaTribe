@@ -1,3 +1,20 @@
+3.10.014 BETA (2026-11-27)
+* Ajout de l'IPv6 : GigaTribe se connecte aux contacts et aux relais en IPv6 quand votre réseau le permet
+* Affichage de vos autres appareils connectés sous « Moi » dans la barre latérale
+* Les valeurs du profil et les messages d'invitation peuvent être sélectionnés et copiés
+* Inviter un utilisateur qui vous a invité accepte son invitation
+* Message clair quand le serveur refuse un nom, un e-mail ou une invitation (utilisateur bloqué, limite de contacts ou d'invitations), et quand un envoi ne tient pas dans le quota d'un dossier
+* Connexion plus rapide : passage par le relais 2 secondes après une connexion directe sans réponse, un relais en panne est détecté en moins d'une minute, et la connexion revient aussitôt après un changement de réseau
+* Correction des téléchargements bloqués quand un bloc de données était perdu, et des transferts qui redémarraient quand un contact modifiait ses dossiers partagés
+* Chat : correction des messages perdus pendant la connexion de l'appareil d'un contact
+* Ouverture plus rapide des grands dossiers, avec leurs fichiers affichés pendant le chargement ; correction du blocage de la confirmation de remplacement sur les gros téléchargements
+* Les fichiers téléchargés ou reçus dans un dossier partagé sont visibles tout de suite par vos contacts
+* Un seul son par dossier téléchargé, et non un par fichier
+* Le mot de passe saisi pour le dossier protégé d'un contact est conservé quand le dossier se rafraîchit
+* Correction de la progression des envois au-delà de 100 %, des dossiers avec quota affichés en accès complet et du texte espagnol du quota de téléchargement gratuit
+* Amélioration de la sécurité
+* Amélioration de la stabilité : correction de nombreux plantages (déconnexion, fermeture, groupes, serveur sans relais)
+
 3.10.001 (2026-07-16)
 * Correction de l'affichage quand le quota est atteind
 * Ajout d'icones pour indiqué si les connexion sont en VPN ou en Direct

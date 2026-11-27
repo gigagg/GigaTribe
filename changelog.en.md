@@ -1,3 +1,20 @@
+3.10.014 BETA (2026-11-27)
+* Add IPv6: GigaTribe connects to contacts and relays over IPv6 when your network has it
+* Show your other connected devices under "Me" in the sidebar
+* Make profile values and invitation messages selectable, so you can copy them
+* Accept the invitation of a user when you invite them back
+* Give a clear message when the server refuses a name, an email or an invitation (blocked user, contact or invitation limit), and when an upload does not fit in a folder's quota
+* Connect faster: the relay takes over 2 seconds after a direct connection gets no answer, a dead relay is found within a minute, and the connection comes back at once after a network change
+* Fix downloads that stalled when a data block was lost, and transfers that restarted when a contact changed their shared folders
+* Chat: fix messages lost while a contact's device was still connecting
+* Open large folders faster and show their files while they load; fix the freeze of the overwrite check on big downloads
+* Show the files you download or receive into a shared folder to your contacts at once
+* Play one sound per downloaded folder, not one per file
+* Keep the password you typed for a contact's protected folder when the folder refreshes
+* Fix upload progress above 100 %, folders with a quota shown as full access, and the Spanish text of the free download quota
+* Improve security
+* Improve stability: fix many crashes (logout, quit, groups, server with no relay)
+
 3.10.001 (2026-07-16)
 * Fix display when the quota is reached
 * Add some icons to display if a connection is in VPN or Direct
